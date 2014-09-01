@@ -1,6 +1,6 @@
 require 'sinatra'
 
 get '/hi' do
-  "Hello World!"
+  "Hello sinatra!"
 end
 
